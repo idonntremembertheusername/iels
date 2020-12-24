@@ -1,0 +1,23 @@
+# 视频处理工程
+server:
+  port: 31450
+spring:
+  application:
+    name: iels-service-manage-media-processor
+  data:
+    mongodb:
+      uri:  mongodb://root:root@localhost:27017
+      database: iels_media
+# rabbitmq配置
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
+iels-service-manage-media:
+  mq:
+    queue-media-video-processor: queue_media_video_processor # 队列名称
+    routingkey-media-video: routingkey_media_video # 路由key
+  video-location: D:/IDEA_workspace/iels/video/ #待处理[编码,转换]的源视频的目录所在位置
+  ffmpeg-path: D:/IDEA_workspace/xuecheng/tools/ffmpeg-20180227-fa0c9d6-win64-static/bin/ffmpeg.exe #视频处理用到的第三方程序[FFmpeg]的所在位置

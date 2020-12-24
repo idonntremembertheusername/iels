@@ -1,0 +1,68 @@
+package com.iels.framework.domain.media.response;
+
+import com.google.common.collect.ImmutableMap;
+import com.iels.framework.model.response.ResultCode;
+import io.swagger.annotations.ApiModelProperty;
+import lombok.ToString;
+
+/**
+ * @Description: TODO
+ * @Author: snypxk
+ * @Date: 2019/12/13 12
+ * @Other:
+ **/
+@ToString
+public enum MediaCode implements ResultCode {
+    UPLOAD_FILE_REGISTER_FAIL(false, 22001, "上传文件在系统注册失败，请刷新页面重试！"),
+    UPLOAD_FILE_REGISTER_EXIST(false,22002,"该文件在服务器端已存在,拒绝重复上传!"),
+    CREATE_FOLDER_FAILURE(false,22003,"创建文件夹失败[注册失败]"),
+    UPLOAD_FILE_REGISTER_ISNULL(false,22004,"上传的块文件为空"),
+    CHUNK_FILE_UPLOAD_FAIL(false,22005,"块文件上传失败"),
+    MERGE_FILE_FAIL(false,22006,"合并文件失败，文件在系统已存在！"),
+    MERGE_FILE_CHECKFAIL(false,22007,"合并文件校验失败！"),
+    MERGE_FILE_CREATEFAIL(false,22008,"创建合并文件失败"),
+    CHUNK_FILE_EXIST_CHECK(true,22009,"分块文件在系统已存在！"),
+    ;
+
+
+    //操作代码
+    @ApiModelProperty(value = "媒资系统操作是否成功", example = "true", required = true)
+    boolean success;
+    //操作代码
+    @ApiModelProperty(value = "媒资系统操作代码", example = "22001", required = true)
+    int code;
+    //提示信息
+    @ApiModelProperty(value = "媒资系统操作提示", example = "文件在系统已存在！", required = true)
+    String message;
+
+    private MediaCode(boolean success, int code, String message) {
+        this.success = success;
+        this.code = code;
+        this.message = message;
+    }
+
+    private static final ImmutableMap<Integer, MediaCode> CACHE;
+
+    static {
+        final ImmutableMap.Builder<Integer, MediaCode> builder = ImmutableMap.builder();
+        for (MediaCode commonCode : values()) {
+            builder.put(commonCode.code(), commonCode);
+        }
+        CACHE = builder.build();
+    }
+
+    @Override
+    public boolean success() {
+        return success;
+    }
+
+    @Override
+    public int code() {
+        return code;
+    }
+
+    @Override
+    public String message() {
+        return message;
+    }
+}
