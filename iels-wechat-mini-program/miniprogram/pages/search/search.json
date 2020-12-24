@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "mp-searchbar": "../../vant-weapp/searchbar/searchbar",
+    "box-module":"../../components/box-module/index",
+    "special-module":"../../components/special-module/index"
+  }
+}

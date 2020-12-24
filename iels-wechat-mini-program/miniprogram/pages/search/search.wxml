@@ -1,0 +1,32 @@
+<view class="page__bd">
+    <mp-searchbar bindselectresult="selectResult" bindinput="handleInput" cancel="true" bindblur='goSearch' placeholder="搜索课程"></mp-searchbar>
+</view>
+
+<box-module title="搜索结果" >         
+          <view class="courses">          
+                <block wx:for="{{courseSearchlist.list}}" wx:key="index" >  
+
+                  <block wx:if="{{item.isBig}}">
+                    <view class="course_big"  >
+                      <navigator  url="../courseInfo/courseInfo?id={{item.id}}">     
+                        <image class="course-image_big " src="{{item.pic}}" /> 
+                        <text class="course-title">{{item.name}}</text>
+                        <!-- <text class="course-price" wx:if="{{item.price > 0}}">￥{{item.price}}</text> -->
+                      </navigator>   
+                    </view> 
+                    <view style="display:none"></view>  
+                  </block>
+
+                  <block wx:else>
+                    <view class="course" > 
+                      <navigator  url="../courseInfo/courseInfo?id={{item.id}}" >      
+                        <image class="course-image " src="{{item.pic}}" /> 
+                        <text class="course-title">{{item.name}}</text>
+                        <!-- <text class="course-price" wx:if="{{item.price > 0}}">￥{{item.price}}</text> -->
+                      </navigator>   
+                    </view> 
+                  </block>
+
+                </block>
+          </view>
+</box-module>

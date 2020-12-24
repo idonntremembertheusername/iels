@@ -1,0 +1,67 @@
+<view class="page" data-weui-theme="{{theme}}">
+	<!-- <view class="weui-form"> -->
+		<!-- <view class="weui-form__text-area">
+			<h2 class="weui-form__title">表单结构</h2>
+		</view> -->
+		<view class="weui-form__control-area">
+			<view class="weui-cells__group weui-cells__group_form">
+				<view class="weui-cells__title">个人信息</view>
+				<form bindsubmit="updateUserSubmit">
+				<view class="weui-cells weui-cells_form">
+					<view class="weui-cell weui-cell_active">
+						<view class="weui-cell__hd"><label class="weui-label">昵称：</label></view>
+						<view class="weui-cell__bd">
+							<input class="weui-input" value="{{user.name}}" name="name" placeholder="填写本人昵称" placeholder-class="weui-input__placeholder" />
+						</view>
+					</view>
+					<view class="weui-cell weui-cell_active">
+						<view class="weui-cell__hd">							
+                            <label class="weui-label">性别：</label>
+                        </view>
+						<view class="weui-cell__bd">
+							<input class="weui-input" value="{{user.sex}}" name="sex" placeholder="填写" placeholder-class="weui-input__placeholder" />
+						</view>
+					</view>
+					<view class="weui-cell weui-cell_active">
+						<view class="weui-cell__hd">							
+                            <label class="weui-label">联系电话：</label>
+                        </view>
+						<view class="weui-cell__bd">
+							<input class="weui-input" value="{{user.phone}}" name="phone" placeholder="填写" type="number" placeholder-class="weui-input__placeholder" />
+						</view>
+					</view>
+					<view class="weui-cell weui-cell_active">
+						<view class="weui-cell__hd">							
+                            <label class="weui-label">邮箱：</label>
+                        </view>
+						<view class="weui-cell__bd">
+							<input class="weui-input"value="{{user.email}}" name="email" placeholder="填写" type="number" placeholder-class="weui-input__placeholder" />
+						</view>
+					</view>
+					<view class="weui-cell weui-cell_active">
+						<view class="weui-cell__hd">							
+                            <label class="weui-label">地址：</label>
+                        </view>
+						<view class="weui-cell__bd">
+							<input class="weui-input" value="{{user.utype}}" name="utype" placeholder="填写" type="number" placeholder-class="weui-input__placeholder" />
+						</view>
+					</view>				
+				</view>
+				 <view class="weui-form__tips-area">	</view>
+				 
+					<view class="button-sp-area"> 		
+						<button type="default" plain="true" form-type="submit">修改</button>
+					</view>
+				</form>
+			</view>
+		</view>
+		
+		
+		<view class="weui-form__extra-area">
+			<view class="weui-footer">
+				
+				<view class="weui-footer__text">Copyright © 2008-2019 weui.io</view>
+			</view>
+		</view>
+	<!-- </view> -->
+</view>

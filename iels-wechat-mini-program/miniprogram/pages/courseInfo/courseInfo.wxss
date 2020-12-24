@@ -1,0 +1,252 @@
+/* miniprogram/pages/courseInfo/courseInfo.wxss */
+page{
+    padding-bottom: 100rpx;
+    font-size: 0;
+}
+
+
+.headImg,.introImg{
+    width: 100%;
+}
+
+.pic{
+    margin: 0;
+    padding: 0;
+}
+
+.txt {
+    color: #70788C;
+    display: inline-block;
+    font-size: 28rpx;
+    line-height: 38rpx;
+    padding-bottom: 30rpx;
+    border-bottom: 1px solid #e6eae5;
+    width: 100%;
+    /* word-break: break-all; */
+    
+}
+.txt-item{
+    width: 100%;
+    min-height: 38rpx;
+}
+
+.test{
+    font-size: 156rpx;
+}
+
+
+
+.van-button--square {
+border-radius:60rpx;
+}
+
+
+
+.box-module{
+    /* display: table; */
+    margin: 0 auto;
+    width: 92%; 
+
+}
+  
+.box-module .box-title{
+
+    display: inline-block;
+    line-height: 42rpx;
+    font-size: 32rpx;
+    font-weight: bold;
+    color: #3c4a55;
+    width: 100%;
+
+    margin-top: 28rpx;
+    margin-bottom: 18rpx;
+
+
+}
+
+
+
+.teacherImg {
+    width: 48px;
+    height: 48px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+}
+.teacherName{
+    display: inline-block;
+    height: 48px;
+    line-height: 48px;
+    margin-left: 18px;
+    font-size: 15px;
+    color: #666;
+    vertical-align: top;
+}
+.teacherIntro{
+    padding-left:66px ;
+    padding-bottom: 20px;
+    font-size: 14px;
+    line-height: 19px;
+    color: #70788C;
+}
+
+.foot{
+    position: fixed;
+    width: 280px;
+    height: 40px;
+    background: #FB7299;
+    bottom: 5px;
+    left: 50%;
+    margin-left: -150px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 40px;
+    padding-left: 20px;
+}
+
+.foot .arrow{
+    background-image: url(//edu-image.nosdn.127.net/cbb7c671-f6c8-477f-806a-317751c12872.png?imageView&quality=100);
+    background-size: 100% 100%;
+    width: 15px;
+    height: 13px;
+    margin-left: 5px;
+    top: 1px;
+    position: relative;
+    display: inline-block;
+}
+
+
+.tip{
+    padding: 26rpx 4% ; 
+    font-size: 36rpx;
+    line-height: 52rpx;  
+    border-bottom: 1px solid #e6eaf2;
+}
+
+.tip-title{   
+    color: #3C4A55;  
+}
+
+.tip-price{
+    color: #151515;
+}
+
+.star-txt{
+    font-size: 14px;
+    line-height: 14px;
+    line-height: 24px;
+    color: #70788C;
+    margin-left: 3px; 
+}
+
+navigator{
+    width: 100%
+}
+
+/* ---comment--- */
+
+.comment{
+    padding: 15px 10px 5px; 
+}
+.comment_title{
+    color: #333740;
+    font-size: 15px;
+    line-height: 16px;
+}
+
+.comment_count{
+    color: #a4a9b2;
+    font-size: 14px;
+    line-height: 16px;
+    float: right;
+}
+
+.comment_content{
+    font-size: 14px;
+    color: #333;
+}
+
+.comment_content .avatar{
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.comment_content .name{
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 18px;
+    font-size: 15px;
+    color: #666; 
+    vertical-align: top
+}
+
+.comment_content .text{
+    padding-left:58px ;
+    padding-bottom: 20px;
+    font-size: 14px;
+    line-height: 19px;
+    color: #70788C;
+}
+
+.comment_content .time{
+    font-size: 12px;
+    padding-right: 3px;
+    color: #A4A9B2;
+    text-align:right
+}
+
+/* ---empty--- */
+
+
+
+
+.empty-img {
+    width: 50%;
+}
+
+.empty-txt {
+    margin-top: 40rpx;
+    font-size: 28rpx;
+    line-height: 1.3;
+    text-align: center;
+    color: #3C4A55;
+}
+
+/* 视频 */
+
+.videoInfo-container {
+    margin-top: 10rpx;
+}
+
+.videoInfo-container video {
+    width: 100%;
+}
+
+.video-title {
+    display: flex;
+    justify-content: space-around;
+    font-size: 35rpx;
+}
+
+.video-detail {
+    margin-top: 5rpx;
+    font-size: 28rpx;
+    margin-bottom: 50rpx;
+}
+
+.video-detail text {
+    margin-left: 15rpx;
+}
+
+.video-detail text:first-child {
+    margin-left: 0;
+}
+
+.video-detail .author {
+    color: #000;
+}

@@ -1,0 +1,163 @@
+<!--miniprogram/pages/courseInfo/courseInfo.wxml-->
+<page>
+<!-- <view class="pic">
+    <image src="{{content.headImg}}"
+    class="headImg" mode="widthFix"></image>
+</view> -->
+<view class="videoInfo-container">
+    <video src="{{course.status}}" controls ></video>
+</view>
+<view class="titleBar">
+  <ul class="status">
+    <li>
+      <text class="{{status == '1' ? 'active':''}} black" bindtap="showStatus" data-status="1">简介</text>
+    </li>
+    <li>
+      <text class="{{status == '2' ? 'active':''}} black" bindtap="showStatus" data-status="2">目录</text>
+    </li>
+    <li>
+      <text class="{{status == '3' ? 'active':''}} black" bindtap="showStatus" data-status="3" onClickButton>评价</text>
+    </li>
+  </ul>
+</view>
+
+
+<block wx:if="{{status == '1'}}">
+
+  
+
+  <van-cell-group>
+
+    <view class="tips">
+      <view class="tip">
+        <view class="tip-title">{{course.name}}</view>
+         <!--<view class="tip-stars">
+            <star-module number="{{content.star}}"></star-module>
+            <text class="star-txt" wx:if="{{content.star}}">{{content.star}}分</text>
+          </view>-->
+      </view>
+
+
+      <!-- <view class="tip tip-price" wx:if="{{content.price-content.discount>0}}">￥{{content.price-content.discount}}</view> -->
+
+    </view>
+    
+
+      <view class="divide"></view>
+      <view class="box-module">
+        <text class="box-title">课程介绍</text>
+
+
+        <view class="txt">
+        <view class="tip-title">{{course.description}}</view>
+        <block wx:for="{{viewDesc}}" wx:key="index">
+          <view class="txt-item">{{viewDesc[index]}}</view>
+        </block>
+        </view>
+
+        <block wx:for="{{content.introImg}}" wx:key="index">
+          <image class="introImg" src="{{course.st}}" mode="widthFix"/>
+        </block>
+
+
+        <!--<text class="box-title">适用人群</text>
+        <view class="txt">
+        <block wx:for="{{viewTarget}}" wx:key="index">
+          <view class="txt-item">{{viewTarget[index]}}</view>
+        </block>
+        </view>-->
+
+        <text class="box-title">讲师</text>
+        <view class="teacher">
+          <image class="teacherImg" src="{{course.st}}" />
+          <view class="teacherName" >{{course.users}}</view>
+          <view class="teacherIntro">{{course.teachmode}}</view>
+        </view>
+        <block wx:if="{{content.isExpert}}">
+          <image class="teacherImg" src="{{expert.avatarURL}}" />
+          <view class="teacherName" >{{expert.name}}</view>
+          <view class="teacherIntro">{{expert.intro}}</view>
+        </block>
+      </view>
+
+
+
+
+
+
+
+<!-- end -->
+
+
+
+    
+  </van-cell-group>
+
+</block>
+
+<block wx:elif="{{status == '2'}}">
+    <van-cell title="课程目录" />
+</block>
+
+<block wx:else>
+    <view class="comment">
+      <view style="margin-bottom: 18px ">  
+        <span class="comment_title">全部评价</span>
+        <span class="comment_count">共{{comment.length}}个评价</span>
+      </view>
+    
+    <block wx:if="{{comment.length<=0}}">
+      <view class="empty">
+        <view class="empty-img">
+        <image src="../../images/evaluation.png"/>
+        </view>
+        <view class="empty-txt">暂无评价</view>
+      </view>
+    </block>
+
+    <block wx:else>
+      <view wx:for="{{comment}}" wx:key="{{index}}">
+        <view class="comment_content">
+          <image class="avatar" src="{{comment[index].avatar}}" />
+          <view class="name">{{comment[index].name}}</view>
+          <view style="float: right">
+            <star-module number="{{comment[index].star}}"></star-module>
+            <view class="time">{{comment[index].time}}</view>
+          </view>
+          <view class="text">{{comment[index].text}}</view> 
+        </view>
+      </view>
+    </block>
+
+    </view>
+</block>
+
+
+<block wx:if="{{isPaid}}">
+  <view class="foot">打开网易云课堂APP学习 支持倍速播放<view class="arrow"></view>
+  </view>
+</block>
+
+
+<block wx:else>
+  <van-goods-action>
+    <block wx:if="{{content.price>0}}">
+      <van-goods-action-icon
+        data-id="{{content.id}}"
+        icon="like"
+        text="收藏 "
+        bind:click="onClickIcon"
+      />
+    </block>
+    
+    <van-goods-action-button class="btn"
+      size="mini   "
+      text="加入学习"
+      type="warning "
+      bind:click="onClickButton"
+    />
+   
+  </van-goods-action>
+</block>
+
+</page>

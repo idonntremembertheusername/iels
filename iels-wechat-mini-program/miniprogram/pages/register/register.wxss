@@ -1,0 +1,10 @@
+/* pages/register/register.wxss */
+button{
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.button-sp-area{
+  margin: 0 auto;
+  width: 60%;
+}
+
