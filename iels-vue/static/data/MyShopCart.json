@@ -1,0 +1,47 @@
+{
+  "error_no": 0,
+  "data": {
+    "total": 3,
+    "myShopCart": [{
+      "courseName": "K8S 集群实战",
+      "courseId": "111",
+      "courseImg": "//hcdn1.luffycity.com/static/frontend/degreecourse/16/推荐图_1562842314.1036682.png",
+      "coursePrice": "149.0",
+      "validPeriod": "永久有效",
+      "validPeriodId": "10000",
+      "validPeriodChoices": [{
+        "validPeriodId": 10000,
+        "validPeriod": "永久有效",
+        "price": "149.0",
+        "default": true
+      }]
+    }, {
+      "courseName": "6小时玩转jquery核心项目实战",
+      "courseId": "160",
+      "courseImg": "//hcdn1.luffycity.com/static/frontend/course/160/jquery5@2x_1573035082.7622592.png",
+      "coursePrice": "9.9",
+      "validPeriod": "永久有效",
+      "validPeriodId": "10000",
+      "validPeriodChoices": [{
+        "validPeriodId": 10000,
+        "validPeriod": "永久有效",
+        "price": "9.9",
+        "default": true
+      }]
+    }, {
+      "courseName": "Vue全家桶+Node.js全栈开发Xmall商城",
+      "courseId": "165",
+      "courseImg": "//hcdn1.luffycity.com/static/frontend/course/165/list5@2x_1574737764.3128672.png",
+      "coursePrice": "79.9",
+      "validPeriod": "永久有效",
+      "validPeriodId": "10000",
+      "validPeriodChoices": [{
+        "validPeriodId": 10000,
+        "validPeriod": "永久有效",
+        "price": "79.9",
+        "default": true
+      }]
+    }],
+    "invalidCart": []
+  }
+}

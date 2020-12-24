@@ -1,0 +1,14 @@
+{
+    "data":{
+        "email":"adsfad@qq.com",
+        "userId":500,
+        "phone":"12345678",
+        "roleId":0,
+        "token":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE1NzcyMDQ1MjgsImV4cCI6MTU3NzI5MDkyOH0.GJ7iHaD8RCmu5WdXNAn_YlY8lUlY1SPutXiRX12SKtI",
+        "username":"admin"
+    },
+    "meta":{
+        "msg":"登录成功",
+        "status":200
+    }
+}

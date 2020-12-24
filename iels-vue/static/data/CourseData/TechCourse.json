@@ -1,0 +1,81 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 71,
+      "name": "网管到CEO的10年逆袭之路",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/71/PC列表页_1548897516.1923711.jpeg",
+      "numbers": 10,
+      "learn_number": 12318,
+      "is_buy": false,
+      "teacher_description": "Alex 老男孩Python教学总监",
+      "free_sections": [
+        {
+          "id": 7149,
+          "name": "技术人员如何度过经济寒冬",
+          "free_trail": true
+        },
+        {
+          "id": 7148,
+          "name": "7天集训营开班直播",
+          "free_trail": true
+        },
+        {
+          "id": 7151,
+          "name": "失败型人格剖析",
+          "free_trail": false
+        },
+        {
+          "id": 7150,
+          "name": "焦虑改变命运",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 10,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.00"
+    },
+    {
+      "id": 68,
+      "name": "IT大咖老男孩亲授职场高薪自我成长经验",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/68/思想_1544070384.6972747.jpeg",
+      "numbers": 11,
+      "learn_number": 4966,
+      "is_buy": false,
+      "teacher_description": "老男孩 北京老男孩IT教育创始人",
+      "free_sections": [
+        {
+          "id": 4461,
+          "name": "第一步，实现你的小成",
+          "free_trail": true
+        },
+        {
+          "id": 4460,
+          "name": "是时候改变普通人的思维了",
+          "free_trail": true
+        },
+        {
+          "id": 4462,
+          "name": "优秀的人和普通的人有哪些区别",
+          "free_trail": false
+        },
+        {
+          "id": 6800,
+          "name": "超过30岁如何给自己未来做正确职业规划",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 11,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "39.00"
+    }
+  ]
+}

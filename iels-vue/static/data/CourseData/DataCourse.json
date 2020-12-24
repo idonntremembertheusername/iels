@@ -1,0 +1,119 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 157,
+      "name": "从0开始学大数据开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/158/5@2x_1570787110.4282997.png",
+      "numbers": 38,
+      "learn_number": 34,
+      "is_buy": false,
+      "teacher_description": "Derek 前网易研究院大数据分析工程师",
+      "free_sections": [
+        {
+          "id": 16893,
+          "name": "背景介绍",
+          "free_trail": true
+        },
+        {
+          "id": 16902,
+          "name": "连接HDFS的工具类(2)",
+          "free_trail": false
+        },
+        {
+          "id": 16921,
+          "name": "自定义分区（2）",
+          "free_trail": false
+        },
+        {
+          "id": 16894,
+          "name": "课程介绍",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 38,
+      "has_price": true,
+      "price": "665.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "399.00"
+    },
+    {
+      "id": 7,
+      "name": "金融量化分析入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/7/金融_1544067126.7320983.jpeg",
+      "numbers": 69,
+      "learn_number": 3593,
+      "is_buy": false,
+      "teacher_description": "Jason Zhao 清华大学计算机博士",
+      "free_sections": [
+        {
+          "id": 31,
+          "name": "股票基本知识和股票分类",
+          "free_trail": true
+        },
+        {
+          "id": 32,
+          "name": "股票市场构成",
+          "free_trail": true
+        },
+        {
+          "id": 30,
+          "name": "基本金融知识介绍",
+          "free_trail": true
+        },
+        {
+          "id": 354,
+          "name": "DataFrame常用属性",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 69,
+      "has_price": true,
+      "price": "399.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "299.25"
+    },
+    {
+      "id": 23,
+      "name": "Python数据分析与机器学习实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/23/机器_1544010748.895914.jpeg",
+      "numbers": 180,
+      "learn_number": 3840,
+      "is_buy": false,
+      "teacher_description": "唐宇迪 深度学习领域一线实战专家",
+      "free_sections": [
+        {
+          "id": 423,
+          "name": "AI时代首选Python",
+          "free_trail": true
+        },
+        {
+          "id": 424,
+          "name": "Python我该怎么学",
+          "free_trail": true
+        },
+        {
+          "id": 425,
+          "name": "人工智能的核心-机器学习",
+          "free_trail": true
+        },
+        {
+          "id": 590,
+          "name": "推荐系统：开场",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 180,
+      "has_price": true,
+      "price": "499.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "499.00"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 152,
+      "name": "区块链开发从入门到进阶",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/152/go_list@2x_1568788965.4575365.png",
+      "numbers": 22,
+      "learn_number": 141,
+      "is_buy": false,
+      "teacher_description": "孙建超 高级讲师",
+      "free_sections": [
+        {
+          "id": 15788,
+          "name": "生成新区块",
+          "free_trail": true
+        },
+        {
+          "id": 15780,
+          "name": "创世区块",
+          "free_trail": true
+        },
+        {
+          "id": 15778,
+          "name": "课程介绍",
+          "free_trail": true
+        },
+        {
+          "id": 15779,
+          "name": "基本概念介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 22,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "19.32"
+    },
+    {
+      "id": 123,
+      "name": "从0开始学习微服务架构",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/123/编组@2x_1565669180.5057206.png",
+      "numbers": 33,
+      "learn_number": 1319,
+      "is_buy": false,
+      "teacher_description": "孙建超 高级讲师",
+      "free_sections": [
+        {
+          "id": 13986,
+          "name": "架构演进2",
+          "free_trail": true
+        },
+        {
+          "id": 13987,
+          "name": "架构演进1",
+          "free_trail": true
+        },
+        {
+          "id": 13985,
+          "name": "微服务特点和背景",
+          "free_trail": true
+        },
+        {
+          "id": 13984,
+          "name": "课前介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 30,
+      "has_price": true,
+      "price": "198.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "99.00"
+    },
+    {
+      "id": 69,
+      "name": "Go编程33天从入门到放弃系列",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/69/go-pc列表_1544769100.1675076.jpeg",
+      "numbers": 200,
+      "learn_number": 4862,
+      "is_buy": false,
+      "teacher_description": "少林 前百度、小米架构师",
+      "free_sections": [
+        {
+          "id": 6013,
+          "name": "Go发展历史",
+          "free_trail": true
+        },
+        {
+          "id": 6012,
+          "name": "Golang课程介绍",
+          "free_trail": true
+        },
+        {
+          "id": 6075,
+          "name": "package组织方式",
+          "free_trail": false
+        },
+        {
+          "id": 6130,
+          "name": "指针和值类型实现接口的区别以及接口嵌套",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 168,
+      "has_price": true,
+      "price": "699.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "699.00"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 167,
+      "name": "云计算监控神器",
+      "course_img": "//hcdn2.luffycity.com/media/frontend/course/PC列表页备份 5.png",
+      "numbers": 11,
+      "learn_number": 5,
+      "is_buy": false,
+      "teacher_description": "陈伟强 石墨文档DBA专家+DevOps工程师",
+      "free_sections": [
+        {
+          "id": 17883,
+          "name": "为什么选择prometheus",
+          "free_trail": true
+        },
+        {
+          "id": 17884,
+          "name": "prometheus基本原理",
+          "free_trail": true
+        },
+        {
+          "id": 17882,
+          "name": "开源监控软件对比",
+          "free_trail": true
+        },
+        {
+          "id": 17888,
+          "name": "rule规则",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 11,
+      "has_price": true,
+      "price": "78.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "39.00"
+    },
+    {
+      "id": 111,
+      "name": "K8S 集群实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/degreecourse/16/PC列表页@3x_1562842317.3393981.png",
+      "numbers": 33,
+      "learn_number": 2722,
+      "is_buy": false,
+      "teacher_description": "周玉强 路飞高级讲师",
+      "free_sections": [
+        {
+          "id": 13053,
+          "name": "k8s的应用场景",
+          "free_trail": true
+        },
+        {
+          "id": 13052,
+          "name": "k8s的核心组件和架构",
+          "free_trail": true
+        },
+        {
+          "id": 13050,
+          "name": "视频导读v3",
+          "free_trail": true
+        },
+        {
+          "id": 13051,
+          "name": "什么是k8sv1",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 32,
+      "has_price": true,
+      "price": "149.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "78.97"
+    },
+    {
+      "id": 162,
+      "name": "Ansible自动化管理集群架构入门与实践",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/162/list5@2x_1574390256.4768667.png",
+      "numbers": 48,
+      "learn_number": 519,
+      "is_buy": false,
+      "teacher_description": "徐亮伟 Linux金牌讲师",
+      "free_sections": [
+        {
+          "id": 17522,
+          "name": "Ansible基本介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17521,
+          "name": "Ansible课程大纲",
+          "free_trail": true
+        },
+        {
+          "id": 17524,
+          "name": "Ansible配置文件",
+          "free_trail": true
+        },
+        {
+          "id": 17523,
+          "name": "Ansible基础架构",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 48,
+      "has_price": true,
+      "price": "138.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "69.00"
+    },
+    {
+      "id": 158,
+      "name": "5天玩转Zabbix监控",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/158/zabbix@2x_1570775081.2231288.png",
+      "numbers": 44,
+      "learn_number": 1473,
+      "is_buy": false,
+      "teacher_description": "周玉强 路飞高级讲师",
+      "free_sections": [
+        {
+          "id": 16931,
+          "name": "zabbix的安装",
+          "free_trail": true
+        },
+        {
+          "id": 16932,
+          "name": "为什么需要监控",
+          "free_trail": true
+        },
+        {
+          "id": 16946,
+          "name": "批量创建自定义监控项",
+          "free_trail": false
+        },
+        {
+          "id": 16964,
+          "name": "zabbix-agent主动和被动模式",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 44,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 151,
+      "name": "1周搞定Linux 8大常用服务实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/151/linux_list@2x_1568789700.1263142.png",
+      "numbers": 87,
+      "learn_number": 929,
+      "is_buy": false,
+      "teacher_description": "白树明 原RedHat红帽技术专家 原新浪高级运维架构师",
+      "free_sections": [
+        {
+          "id": 15800,
+          "name": "防火墙和selinux设置",
+          "free_trail": true
+        },
+        {
+          "id": 15801,
+          "name": "DHCP介绍",
+          "free_trail": true
+        },
+        {
+          "id": 15802,
+          "name": "DHCP部署",
+          "free_trail": true
+        },
+        {
+          "id": 15803,
+          "name": "工作原理",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 87,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "49.68"
+    },
+    {
+      "id": 12,
+      "name": "Linux系统基础5周入门精讲",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/12/Linux_1544069008.0915537.jpeg",
+      "numbers": 148,
+      "learn_number": 58169,
+      "is_buy": false,
+      "teacher_description": "李泳谊 老男孩Linux学科带头人",
+      "free_sections": [
+        {
+          "id": 53,
+          "name": "服务器头部介绍",
+          "free_trail": true
+        },
+        {
+          "id": 50,
+          "name": "服务器硬件-详解",
+          "free_trail": true
+        },
+        {
+          "id": 48,
+          "name": "课程介绍-学习流程",
+          "free_trail": true
+        },
+        {
+          "id": 51,
+          "name": "服务器核心硬件-服务器型号-电源-CPU",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 147,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.80"
+    }
+  ]
+}

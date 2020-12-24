@@ -1,0 +1,68 @@
+{
+    "error_no": 0,
+    "data": [{
+        "id": 150,
+        "name": "Java核心编程&网络编程",
+        "course_img": "//hcdn1.luffycity.com/static/frontend/course/150/java_list@2x_1568789901.324321.png",
+        "numbers": 54,
+        "learn_number": 193,
+        "is_buy": false,
+        "teacher_description": "樵夫 路飞学城高级讲师",
+        "free_sections": [{
+            "id": 15892,
+            "name": "java中的时间",
+            "free_trail": true
+        }, {
+            "id": 15887,
+            "name": "常用API概述",
+            "free_trail": true
+        }, {
+            "id": 15888,
+            "name": "数学类",
+            "free_trail": true
+        }, {
+            "id": 15889,
+            "name": "基本数据类型包装类",
+            "free_trail": true
+        }],
+        "complete_numbers": 54,
+        "has_price": true,
+        "price": "49.00",
+        "valid_period": 10000,
+        "is_promotion": true,
+        "promotion_name": "限时折扣",
+        "promotion_price": "39.20"
+    }, {
+        "id": 106,
+        "name": "渗透测试",
+        "course_img": "//hcdn1.luffycity.com/static/frontend/course/106/pc列表@2x_1561340263.1782918.png",
+        "numbers": 66,
+        "learn_number": 1940,
+        "is_buy": false,
+        "teacher_description": "超亮哥 前启明星辰安全技术总监",
+        "free_sections": [{
+            "id": 12667,
+            "name": "Web渗透测试概述",
+            "free_trail": true
+        }, {
+            "id": 12668,
+            "name": "Web应用程序的发展历程",
+            "free_trail": true
+        }, {
+            "id": 12669,
+            "name": "Web渗透测试学习框架",
+            "free_trail": true
+        }, {
+            "id": 12666,
+            "name": "Web应用程序安全",
+            "free_trail": true
+        }],
+        "complete_numbers": 34,
+        "has_price": true,
+        "price": "99.00",
+        "valid_period": 10000,
+        "is_promotion": true,
+        "promotion_name": "限时折扣",
+        "promotion_price": "9.90"
+    }]
+}

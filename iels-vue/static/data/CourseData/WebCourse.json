@@ -1,0 +1,461 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 160,
+      "name": "6小时玩转jquery核心项目实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/160/jquery5@2x_1573035082.7622592.png",
+      "numbers": 34,
+      "learn_number": 107,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17368,
+          "name": "入口函数",
+          "free_trail": true
+        },
+        {
+          "id": 17360,
+          "name": "jQuery知识点介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17362,
+          "name": "基础核心使用",
+          "free_trail": true
+        },
+        {
+          "id": 17390,
+          "name": "案例todoList-添加已经完成选项",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 34,
+      "has_price": true,
+      "price": "9.90",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 166,
+      "name": "Vue源码解析",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/166/list4@2x_1574738265.9530222.png",
+      "numbers": 7,
+      "learn_number": 32,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17699,
+          "name": "vue的MVVM响应式原理介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17700,
+          "name": "入口函数和编译类Compile实现",
+          "free_trail": true
+        },
+        {
+          "id": 17701,
+          "name": "完整实现编译类Compile",
+          "free_trail": true
+        },
+        {
+          "id": 17705,
+          "name": "实现Observer劫持并监听所有属性",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 7,
+      "has_price": true,
+      "price": "19.80",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 165,
+      "name": "Vue全家桶+Node.js全栈开发Xmall商城",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/165/list5@2x_1574737764.3128672.png",
+      "numbers": 32,
+      "learn_number": 143,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17693,
+          "name": "Xmall商城导航组件实现",
+          "free_trail": true
+        },
+        {
+          "id": 17667,
+          "name": "Xmall商城项目介绍和课程目标",
+          "free_trail": true
+        },
+        {
+          "id": 17668,
+          "name": "初始化项目和项目插件依赖下载",
+          "free_trail": true
+        },
+        {
+          "id": 17678,
+          "name": "嵌套路由控制导航组件的显示",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 32,
+      "has_price": true,
+      "price": "79.90",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "79.90"
+    },
+    {
+      "id": 161,
+      "name": "vue核心技术实战精讲",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/161/vue4@2x_1573035178.211162.png",
+      "numbers": 73,
+      "learn_number": 1314,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17398,
+          "name": "Vue指令之v-text和v-html",
+          "free_trail": true
+        },
+        {
+          "id": 17395,
+          "name": "Vue的起步和插值表达式",
+          "free_trail": true
+        },
+        {
+          "id": 17394,
+          "name": "Vue开篇介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17396,
+          "name": "vue指令之v-if和v-show",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 73,
+      "has_price": true,
+      "price": "99.90",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "99.90"
+    },
+    {
+      "id": 154,
+      "name": "ES6核心语法",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/154/es6@2x_1569657922.8359034.png",
+      "numbers": 23,
+      "learn_number": 550,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16675,
+          "name": "模板字符串",
+          "free_trail": true
+        },
+        {
+          "id": 16677,
+          "name": "let和const命令",
+          "free_trail": true
+        },
+        {
+          "id": 16674,
+          "name": "函数之默认值、剩余参数",
+          "free_trail": true
+        },
+        {
+          "id": 16672,
+          "name": "ES6介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 23,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 155,
+      "name": "3小时Vue基础快速入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/155/vue@2x_1569658473.721791.png",
+      "numbers": 17,
+      "learn_number": 656,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16657,
+          "name": "Vue指令之v-text和v-html",
+          "free_trail": true
+        },
+        {
+          "id": 16656,
+          "name": "Vue的起步和插值表达式",
+          "free_trail": true
+        },
+        {
+          "id": 16655,
+          "name": "Vue开篇介绍",
+          "free_trail": true
+        },
+        {
+          "id": 16658,
+          "name": "vue指令之v-if和v-show",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 17,
+      "has_price": true,
+      "price": "19.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.90"
+    },
+    {
+      "id": 105,
+      "name": "Vue全家桶+webpack打造商城项目",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/degreecourse/4/F0BF4_1560949611.7000299.png",
+      "numbers": 66,
+      "learn_number": 1667,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 12541,
+          "name": "vue的基本使用和模板语法",
+          "free_trail": true
+        },
+        {
+          "id": 12533,
+          "name": "前端内容快速回顾",
+          "free_trail": true
+        },
+        {
+          "id": 12538,
+          "name": "vue介绍",
+          "free_trail": true
+        },
+        {
+          "id": 12534,
+          "name": "es6的基本用法",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 66,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "78.21"
+    },
+    {
+      "id": 156,
+      "name": "react源码解析",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/156/react@2x_1569658709.09476.png",
+      "numbers": 7,
+      "learn_number": 128,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16649,
+          "name": "从零实现react之JSX和虚拟DOM",
+          "free_trail": true
+        },
+        {
+          "id": 16648,
+          "name": "从零实现react之介绍以及相关配置",
+          "free_trail": true
+        },
+        {
+          "id": 16654,
+          "name": "从零实现react之生命周期的方法",
+          "free_trail": false
+        },
+        {
+          "id": 16652,
+          "name": "从零实现react之异步的setState",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 7,
+      "has_price": true,
+      "price": "10.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.00"
+    },
+    {
+      "id": 149,
+      "name": "前端Web基础-小米商城开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/149/xiaomi_list@2x_1568790318.8883452.png",
+      "numbers": 17,
+      "learn_number": 935,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 15943,
+          "name": "小米顶部栏样式实现",
+          "free_trail": true
+        },
+        {
+          "id": 15947,
+          "name": "小米导航栏结构搭建",
+          "free_trail": true
+        },
+        {
+          "id": 15942,
+          "name": "小米顶部栏结构搭建",
+          "free_trail": true
+        },
+        {
+          "id": 15941,
+          "name": "小米商城介绍和结构分析",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 17,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.96"
+    },
+    {
+      "id": 148,
+      "name": "JS编程从入门到实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/148/js1_list@2x_1568790462.5574958.png",
+      "numbers": 276,
+      "learn_number": 167,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 15960,
+          "name": "基本的变量类型的介绍",
+          "free_trail": true
+        },
+        {
+          "id": 15959,
+          "name": "如何在页面中插入Javascript",
+          "free_trail": true
+        },
+        {
+          "id": 15962,
+          "name": "变量",
+          "free_trail": true
+        },
+        {
+          "id": 15958,
+          "name": "JavaScript介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 276,
+      "has_price": true,
+      "price": "179.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "69.81"
+    },
+    {
+      "id": 153,
+      "name": "移动端web开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/153/mobile_list@2x_1568789230.5251477.png",
+      "numbers": 68,
+      "learn_number": 483,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16254,
+          "name": "本阶段内容介绍(必看)",
+          "free_trail": true
+        },
+        {
+          "id": 16255,
+          "name": "H5新标签介绍(重要)",
+          "free_trail": true
+        },
+        {
+          "id": 16261,
+          "name": "HTML5介绍和浏览器支持",
+          "free_trail": true
+        },
+        {
+          "id": 16262,
+          "name": "H5新标签之nav和header(重要)",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 68,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "6.90"
+    },
+    {
+      "id": 147,
+      "name": "从零开始用原生JS开发一个动画库",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/147/js_list@2x_1568790757.565419.png",
+      "numbers": 20,
+      "learn_number": 119,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16506,
+          "name": "匀速运动",
+          "free_trail": true
+        },
+        {
+          "id": 16509,
+          "name": "简单的侧边栏分享效果",
+          "free_trail": true
+        },
+        {
+          "id": 16524,
+          "name": "侧边栏动画效果",
+          "free_trail": true
+        },
+        {
+          "id": 16505,
+          "name": "JavaScript动画介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 24,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.96"
+    }
+  ]
+}

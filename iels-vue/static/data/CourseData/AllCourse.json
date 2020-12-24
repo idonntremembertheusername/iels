@@ -1,0 +1,1563 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 167,
+      "name": "云计算监控神器",
+      "course_img": "//hcdn2.luffycity.com/media/frontend/course/PC列表页备份 5.png",
+      "numbers": 11,
+      "learn_number": 5,
+      "is_buy": false,
+      "teacher_description": "陈伟强 石墨文档DBA专家+DevOps工程师",
+      "free_sections": [
+        {
+          "id": 17883,
+          "name": "为什么选择prometheus",
+          "free_trail": true
+        },
+        {
+          "id": 17884,
+          "name": "prometheus基本原理",
+          "free_trail": true
+        },
+        {
+          "id": 17882,
+          "name": "开源监控软件对比",
+          "free_trail": true
+        },
+        {
+          "id": 17888,
+          "name": "rule规则",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 11,
+      "has_price": true,
+      "price": "78.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "39.00"
+    },
+    {
+      "id": 111,
+      "name": "K8S 集群实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/degreecourse/16/PC列表页@3x_1562842317.3393981.png",
+      "numbers": 33,
+      "learn_number": 2724,
+      "is_buy": false,
+      "teacher_description": "周玉强 路飞高级讲师",
+      "free_sections": [
+        {
+          "id": 13053,
+          "name": "k8s的应用场景",
+          "free_trail": true
+        },
+        {
+          "id": 13052,
+          "name": "k8s的核心组件和架构",
+          "free_trail": true
+        },
+        {
+          "id": 13050,
+          "name": "视频导读v3",
+          "free_trail": true
+        },
+        {
+          "id": 13051,
+          "name": "什么是k8sv1",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 32,
+      "has_price": true,
+      "price": "149.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "78.97"
+    },
+    {
+      "id": 160,
+      "name": "6小时玩转jquery核心项目实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/160/jquery5@2x_1573035082.7622592.png",
+      "numbers": 34,
+      "learn_number": 107,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17368,
+          "name": "入口函数",
+          "free_trail": true
+        },
+        {
+          "id": 17360,
+          "name": "jQuery知识点介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17362,
+          "name": "基础核心使用",
+          "free_trail": true
+        },
+        {
+          "id": 17390,
+          "name": "案例todoList-添加已经完成选项",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 34,
+      "has_price": true,
+      "price": "9.90",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 166,
+      "name": "Vue源码解析",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/166/list4@2x_1574738265.9530222.png",
+      "numbers": 7,
+      "learn_number": 32,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17699,
+          "name": "vue的MVVM响应式原理介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17700,
+          "name": "入口函数和编译类Compile实现",
+          "free_trail": true
+        },
+        {
+          "id": 17701,
+          "name": "完整实现编译类Compile",
+          "free_trail": true
+        },
+        {
+          "id": 17705,
+          "name": "实现Observer劫持并监听所有属性",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 7,
+      "has_price": true,
+      "price": "19.80",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 165,
+      "name": "Vue全家桶+Node.js全栈开发Xmall商城",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/165/list5@2x_1574737764.3128672.png",
+      "numbers": 32,
+      "learn_number": 143,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17693,
+          "name": "Xmall商城导航组件实现",
+          "free_trail": true
+        },
+        {
+          "id": 17667,
+          "name": "Xmall商城项目介绍和课程目标",
+          "free_trail": true
+        },
+        {
+          "id": 17668,
+          "name": "初始化项目和项目插件依赖下载",
+          "free_trail": true
+        },
+        {
+          "id": 17678,
+          "name": "嵌套路由控制导航组件的显示",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 32,
+      "has_price": true,
+      "price": "79.90",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "79.90"
+    },
+    {
+      "id": 162,
+      "name": "Ansible自动化管理集群架构入门与实践",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/162/list5@2x_1574390256.4768667.png",
+      "numbers": 48,
+      "learn_number": 519,
+      "is_buy": false,
+      "teacher_description": "徐亮伟 Linux金牌讲师",
+      "free_sections": [
+        {
+          "id": 17522,
+          "name": "Ansible基本介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17521,
+          "name": "Ansible课程大纲",
+          "free_trail": true
+        },
+        {
+          "id": 17524,
+          "name": "Ansible配置文件",
+          "free_trail": true
+        },
+        {
+          "id": 17523,
+          "name": "Ansible基础架构",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 48,
+      "has_price": true,
+      "price": "138.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "69.00"
+    },
+    {
+      "id": 161,
+      "name": "vue核心技术实战精讲",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/161/vue4@2x_1573035178.211162.png",
+      "numbers": 73,
+      "learn_number": 1314,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 17398,
+          "name": "Vue指令之v-text和v-html",
+          "free_trail": true
+        },
+        {
+          "id": 17395,
+          "name": "Vue的起步和插值表达式",
+          "free_trail": true
+        },
+        {
+          "id": 17394,
+          "name": "Vue开篇介绍",
+          "free_trail": true
+        },
+        {
+          "id": 17396,
+          "name": "vue指令之v-if和v-show",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 73,
+      "has_price": true,
+      "price": "99.90",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "99.90"
+    },
+    {
+      "id": 158,
+      "name": "5天玩转Zabbix监控",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/158/zabbix@2x_1570775081.2231288.png",
+      "numbers": 44,
+      "learn_number": 1473,
+      "is_buy": false,
+      "teacher_description": "周玉强 路飞高级讲师",
+      "free_sections": [
+        {
+          "id": 16931,
+          "name": "zabbix的安装",
+          "free_trail": true
+        },
+        {
+          "id": 16932,
+          "name": "为什么需要监控",
+          "free_trail": true
+        },
+        {
+          "id": 16946,
+          "name": "批量创建自定义监控项",
+          "free_trail": false
+        },
+        {
+          "id": 16964,
+          "name": "zabbix-agent主动和被动模式",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 44,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 157,
+      "name": "从0开始学大数据开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/158/5@2x_1570787110.4282997.png",
+      "numbers": 38,
+      "learn_number": 34,
+      "is_buy": false,
+      "teacher_description": "Derek 前网易研究院大数据分析工程师",
+      "free_sections": [
+        {
+          "id": 16893,
+          "name": "背景介绍",
+          "free_trail": true
+        },
+        {
+          "id": 16894,
+          "name": "课程介绍",
+          "free_trail": false
+        },
+        {
+          "id": 16902,
+          "name": "连接HDFS的工具类(2)",
+          "free_trail": false
+        },
+        {
+          "id": 16921,
+          "name": "自定义分区（2）",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 38,
+      "has_price": true,
+      "price": "665.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "399.00"
+    },
+    {
+      "id": 154,
+      "name": "ES6核心语法",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/154/es6@2x_1569657922.8359034.png",
+      "numbers": 23,
+      "learn_number": 550,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16675,
+          "name": "模板字符串",
+          "free_trail": true
+        },
+        {
+          "id": 16677,
+          "name": "let和const命令",
+          "free_trail": true
+        },
+        {
+          "id": 16674,
+          "name": "函数之默认值、剩余参数",
+          "free_trail": true
+        },
+        {
+          "id": 16672,
+          "name": "ES6介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 23,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 155,
+      "name": "3小时Vue基础快速入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/155/vue@2x_1569658473.721791.png",
+      "numbers": 17,
+      "learn_number": 656,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16657,
+          "name": "Vue指令之v-text和v-html",
+          "free_trail": true
+        },
+        {
+          "id": 16656,
+          "name": "Vue的起步和插值表达式",
+          "free_trail": true
+        },
+        {
+          "id": 16655,
+          "name": "Vue开篇介绍",
+          "free_trail": true
+        },
+        {
+          "id": 16658,
+          "name": "vue指令之v-if和v-show",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 17,
+      "has_price": true,
+      "price": "19.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.90"
+    },
+    {
+      "id": 105,
+      "name": "Vue全家桶+webpack打造商城项目",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/degreecourse/4/F0BF4_1560949611.7000299.png",
+      "numbers": 66,
+      "learn_number": 1667,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 12541,
+          "name": "vue的基本使用和模板语法",
+          "free_trail": true
+        },
+        {
+          "id": 12533,
+          "name": "前端内容快速回顾",
+          "free_trail": true
+        },
+        {
+          "id": 12538,
+          "name": "vue介绍",
+          "free_trail": true
+        },
+        {
+          "id": 12534,
+          "name": "es6的基本用法",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 66,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "78.21"
+    },
+    {
+      "id": 156,
+      "name": "react源码解析",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/156/react@2x_1569658709.09476.png",
+      "numbers": 7,
+      "learn_number": 128,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16649,
+          "name": "从零实现react之JSX和虚拟DOM",
+          "free_trail": true
+        },
+        {
+          "id": 16648,
+          "name": "从零实现react之介绍以及相关配置",
+          "free_trail": true
+        },
+        {
+          "id": 16654,
+          "name": "从零实现react之生命周期的方法",
+          "free_trail": false
+        },
+        {
+          "id": 16652,
+          "name": "从零实现react之异步的setState",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 7,
+      "has_price": true,
+      "price": "10.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.00"
+    },
+    {
+      "id": 151,
+      "name": "1周搞定Linux 8大常用服务实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/151/linux_list@2x_1568789700.1263142.png",
+      "numbers": 87,
+      "learn_number": 931,
+      "is_buy": false,
+      "teacher_description": "白树明 原RedHat红帽技术专家 原新浪高级运维架构师",
+      "free_sections": [
+        {
+          "id": 15800,
+          "name": "防火墙和selinux设置",
+          "free_trail": true
+        },
+        {
+          "id": 15801,
+          "name": "DHCP介绍",
+          "free_trail": true
+        },
+        {
+          "id": 15802,
+          "name": "DHCP部署",
+          "free_trail": true
+        },
+        {
+          "id": 15803,
+          "name": "工作原理",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 87,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "49.68"
+    },
+    {
+      "id": 152,
+      "name": "区块链开发从入门到进阶",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/152/go_list@2x_1568788965.4575365.png",
+      "numbers": 22,
+      "learn_number": 141,
+      "is_buy": false,
+      "teacher_description": "孙建超 高级讲师",
+      "free_sections": [
+        {
+          "id": 15788,
+          "name": "生成新区块",
+          "free_trail": true
+        },
+        {
+          "id": 15780,
+          "name": "创世区块",
+          "free_trail": true
+        },
+        {
+          "id": 15778,
+          "name": "课程介绍",
+          "free_trail": true
+        },
+        {
+          "id": 15779,
+          "name": "基本概念介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 22,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "19.32"
+    },
+    {
+      "id": 150,
+      "name": "Java核心编程&网络编程",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/150/java_list@2x_1568789901.324321.png",
+      "numbers": 54,
+      "learn_number": 193,
+      "is_buy": false,
+      "teacher_description": "樵夫 路飞学城高级讲师",
+      "free_sections": [
+        {
+          "id": 15892,
+          "name": "java中的时间",
+          "free_trail": true
+        },
+        {
+          "id": 15887,
+          "name": "常用API概述",
+          "free_trail": true
+        },
+        {
+          "id": 15888,
+          "name": "数学类",
+          "free_trail": true
+        },
+        {
+          "id": 15889,
+          "name": "基本数据类型包装类",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 54,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "39.20"
+    },
+    {
+      "id": 149,
+      "name": "前端Web基础-小米商城开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/149/xiaomi_list@2x_1568790318.8883452.png",
+      "numbers": 17,
+      "learn_number": 935,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 15943,
+          "name": "小米顶部栏样式实现",
+          "free_trail": true
+        },
+        {
+          "id": 15947,
+          "name": "小米导航栏结构搭建",
+          "free_trail": true
+        },
+        {
+          "id": 15942,
+          "name": "小米顶部栏结构搭建",
+          "free_trail": true
+        },
+        {
+          "id": 15941,
+          "name": "小米商城介绍和结构分析",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 17,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.96"
+    },
+    {
+      "id": 148,
+      "name": "JS编程从入门到实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/148/js1_list@2x_1568790462.5574958.png",
+      "numbers": 276,
+      "learn_number": 167,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 15960,
+          "name": "基本的变量类型的介绍",
+          "free_trail": true
+        },
+        {
+          "id": 15959,
+          "name": "如何在页面中插入Javascript",
+          "free_trail": true
+        },
+        {
+          "id": 15962,
+          "name": "变量",
+          "free_trail": true
+        },
+        {
+          "id": 15958,
+          "name": "JavaScript介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 276,
+      "has_price": true,
+      "price": "179.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "69.81"
+    },
+    {
+      "id": 153,
+      "name": "移动端web开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/153/mobile_list@2x_1568789230.5251477.png",
+      "numbers": 68,
+      "learn_number": 483,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16254,
+          "name": "本阶段内容介绍(必看)",
+          "free_trail": true
+        },
+        {
+          "id": 16255,
+          "name": "H5新标签介绍(重要)",
+          "free_trail": true
+        },
+        {
+          "id": 16261,
+          "name": "HTML5介绍和浏览器支持",
+          "free_trail": true
+        },
+        {
+          "id": 16262,
+          "name": "H5新标签之nav和header(重要)",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 68,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "6.90"
+    },
+    {
+      "id": 147,
+      "name": "从零开始用原生JS开发一个动画库",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/147/js_list@2x_1568790757.565419.png",
+      "numbers": 20,
+      "learn_number": 119,
+      "is_buy": false,
+      "teacher_description": "Mjj老师 前美团前端项目组架构师",
+      "free_sections": [
+        {
+          "id": 16506,
+          "name": "匀速运动",
+          "free_trail": true
+        },
+        {
+          "id": 16524,
+          "name": "侧边栏动画效果",
+          "free_trail": true
+        },
+        {
+          "id": 16509,
+          "name": "简单的侧边栏分享效果",
+          "free_trail": true
+        },
+        {
+          "id": 16505,
+          "name": "JavaScript动画介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 24,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.96"
+    },
+    {
+      "id": 145,
+      "name": "爬虫开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/145/spider_list@2x_1568791213.8873029.png",
+      "numbers": 81,
+      "learn_number": 1347,
+      "is_buy": false,
+      "teacher_description": "波波 前百度数据挖掘工程师",
+      "free_sections": [
+        {
+          "id": 15486,
+          "name": "爬虫合法性探究",
+          "free_trail": true
+        },
+        {
+          "id": 15485,
+          "name": "爬虫简介-爬虫的概念和价值",
+          "free_trail": true
+        },
+        {
+          "id": 15507,
+          "name": "xpath解析基础01",
+          "free_trail": false
+        },
+        {
+          "id": 15519,
+          "name": "模拟登录cookie操作02",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 81,
+      "has_price": true,
+      "price": "149.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "102.81"
+    },
+    {
+      "id": 146,
+      "name": "Django开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/146/django_list@2x_1568790917.8992581.png",
+      "numbers": 210,
+      "learn_number": 628,
+      "is_buy": false,
+      "teacher_description": "Avrion(苑昊) 路飞学城高级讲师",
+      "free_sections": [
+        {
+          "id": 15571,
+          "name": "web应用程序2",
+          "free_trail": true
+        },
+        {
+          "id": 15575,
+          "name": "http请求协议1",
+          "free_trail": true
+        },
+        {
+          "id": 15569,
+          "name": "web应用程序1",
+          "free_trail": true
+        },
+        {
+          "id": 15568,
+          "name": "django基础介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 210,
+      "has_price": true,
+      "price": "499.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "399.20"
+    },
+    {
+      "id": 144,
+      "name": "看故事学Git实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/144/git_list@2x_1568791486.2615893.png",
+      "numbers": 33,
+      "learn_number": 908,
+      "is_buy": false,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 15452,
+          "name": "git是什么？",
+          "free_trail": true
+        },
+        {
+          "id": 15453,
+          "name": "为什么要做版本控制",
+          "free_trail": true
+        },
+        {
+          "id": 15466,
+          "name": "安装git",
+          "free_trail": true
+        },
+        {
+          "id": 15464,
+          "name": "东北热创业初期",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 33,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "29.40"
+    },
+    {
+      "id": 123,
+      "name": "从0开始学习微服务架构",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/123/编组@2x_1565669180.5057206.png",
+      "numbers": 33,
+      "learn_number": 1319,
+      "is_buy": false,
+      "teacher_description": "孙建超 高级讲师",
+      "free_sections": [
+        {
+          "id": 13986,
+          "name": "架构演进2",
+          "free_trail": true
+        },
+        {
+          "id": 13987,
+          "name": "架构演进1",
+          "free_trail": true
+        },
+        {
+          "id": 13985,
+          "name": "微服务特点和背景",
+          "free_trail": true
+        },
+        {
+          "id": 13984,
+          "name": "课前介绍",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 30,
+      "has_price": true,
+      "price": "198.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "99.00"
+    },
+    {
+      "id": 106,
+      "name": "渗透测试",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/106/pc列表@2x_1561340263.1782918.png",
+      "numbers": 66,
+      "learn_number": 1940,
+      "is_buy": false,
+      "teacher_description": "超亮哥 前启明星辰安全技术总监",
+      "free_sections": [
+        {
+          "id": 12667,
+          "name": "Web渗透测试概述",
+          "free_trail": true
+        },
+        {
+          "id": 12668,
+          "name": "Web应用程序的发展历程",
+          "free_trail": true
+        },
+        {
+          "id": 12669,
+          "name": "Web渗透测试学习框架",
+          "free_trail": true
+        },
+        {
+          "id": 12666,
+          "name": "Web应用程序安全",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 34,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.90"
+    },
+    {
+      "id": 12,
+      "name": "Linux系统基础5周入门精讲",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/12/Linux_1544069008.0915537.jpeg",
+      "numbers": 148,
+      "learn_number": 58171,
+      "is_buy": false,
+      "teacher_description": "李泳谊 老男孩Linux学科带头人",
+      "free_sections": [
+        {
+          "id": 53,
+          "name": "服务器头部介绍",
+          "free_trail": true
+        },
+        {
+          "id": 50,
+          "name": "服务器硬件-详解",
+          "free_trail": true
+        },
+        {
+          "id": 48,
+          "name": "课程介绍-学习流程",
+          "free_trail": true
+        },
+        {
+          "id": 51,
+          "name": "服务器核心硬件-服务器型号-电源-CPU",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 147,
+      "has_price": true,
+      "price": "49.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "9.80"
+    },
+    {
+      "id": 71,
+      "name": "网管到CEO的10年逆袭之路",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/71/PC列表页_1548897516.1923711.jpeg",
+      "numbers": 10,
+      "learn_number": 12318,
+      "is_buy": false,
+      "teacher_description": "Alex 老男孩Python教学总监",
+      "free_sections": [
+        {
+          "id": 7149,
+          "name": "技术人员如何度过经济寒冬",
+          "free_trail": true
+        },
+        {
+          "id": 7148,
+          "name": "7天集训营开班直播",
+          "free_trail": true
+        },
+        {
+          "id": 7151,
+          "name": "失败型人格剖析",
+          "free_trail": false
+        },
+        {
+          "id": 7150,
+          "name": "焦虑改变命运",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 10,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.00"
+    },
+    {
+      "id": 42,
+      "name": "Github入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/42/git-pc列表_1544420927.8406003.jpeg",
+      "numbers": 27,
+      "learn_number": 6561,
+      "is_buy": false,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 2835,
+          "name": "内容回顾之编程思想",
+          "free_trail": true
+        },
+        {
+          "id": 2832,
+          "name": "今日内容概要",
+          "free_trail": true
+        },
+        {
+          "id": 2836,
+          "name": "内容回顾之版本补充",
+          "free_trail": true
+        },
+        {
+          "id": 2833,
+          "name": "内容回顾之rest api",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 27,
+      "has_price": true,
+      "price": "10.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "0.10"
+    },
+    {
+      "id": 7,
+      "name": "金融量化分析入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/7/金融_1544067126.7320983.jpeg",
+      "numbers": 69,
+      "learn_number": 3593,
+      "is_buy": false,
+      "teacher_description": "Jason Zhao 清华大学计算机博士",
+      "free_sections": [
+        {
+          "id": 31,
+          "name": "股票基本知识和股票分类",
+          "free_trail": true
+        },
+        {
+          "id": 32,
+          "name": "股票市场构成",
+          "free_trail": true
+        },
+        {
+          "id": 30,
+          "name": "基本金融知识介绍",
+          "free_trail": true
+        },
+        {
+          "id": 354,
+          "name": "DataFrame常用属性",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 69,
+      "has_price": true,
+      "price": "399.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "299.25"
+    },
+    {
+      "id": 46,
+      "name": "类Zabbix的主机监控系统开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/46/Zabbiix-pc列表_1544431586.4417293.jpeg",
+      "numbers": 25,
+      "learn_number": 2007,
+      "is_buy": false,
+      "teacher_description": "Alex 老男孩Python教学总监",
+      "free_sections": [
+        {
+          "id": 3085,
+          "name": "分布式监控开发实战-监控需求讨论",
+          "free_trail": true
+        },
+        {
+          "id": 3090,
+          "name": "分布式监控开发实战-午后鸡汤讲硅谷",
+          "free_trail": true
+        },
+        {
+          "id": 3091,
+          "name": "分布式监控开发实战-午后鸡汤讲硅谷2",
+          "free_trail": true
+        },
+        {
+          "id": 3086,
+          "name": "分布式监控开发实战-监控需求讨论2",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 25,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "49.50"
+    },
+    {
+      "id": 6,
+      "name": "BBS论坛&Web 聊天室项目开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/6/BBS_1544070960.0138593.jpeg",
+      "numbers": 31,
+      "learn_number": 1167,
+      "is_buy": false,
+      "teacher_description": "Alex 老男孩Python教学总监",
+      "free_sections": [
+        {
+          "id": 4259,
+          "name": "项目实战之BBS开发介绍",
+          "free_trail": true
+        },
+        {
+          "id": 4264,
+          "name": "项目实战之BBS-编写通用版块展示模板",
+          "free_trail": false
+        },
+        {
+          "id": 4262,
+          "name": "项目实战之BBS选择合适的前端模版",
+          "free_trail": false
+        },
+        {
+          "id": 4270,
+          "name": "项目实战之BBS-创建文章评论",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 31,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "69.00"
+    },
+    {
+      "id": 2,
+      "name": "CRM客户关系管理系统实战开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/2/CRM_1544071588.7508512.jpeg",
+      "numbers": 113,
+      "learn_number": 3994,
+      "is_buy": false,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 6838,
+          "name": "crm介绍",
+          "free_trail": true
+        },
+        {
+          "id": 6847,
+          "name": "快速实现简单权限控之权限校验",
+          "free_trail": false
+        },
+        {
+          "id": 6855,
+          "name": "动态菜单之非菜单默认选中（一）",
+          "free_trail": false
+        },
+        {
+          "id": 6876,
+          "name": "权限分配之权限管理知识点总结",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 133,
+      "has_price": true,
+      "price": "299.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "251.16"
+    },
+    {
+      "id": 10,
+      "name": "从零开始学算法&数据结构",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/10/列表图@3x_1567150578.2325735.png",
+      "numbers": 97,
+      "learn_number": 5739,
+      "is_buy": false,
+      "teacher_description": "Jason Zhao 清华大学计算机博士",
+      "free_sections": [
+        {
+          "id": 285,
+          "name": "估计算法运行效率与时间复杂度",
+          "free_trail": true
+        },
+        {
+          "id": 284,
+          "name": "算法入门概念",
+          "free_trail": true
+        },
+        {
+          "id": 288,
+          "name": "递归",
+          "free_trail": false
+        },
+        {
+          "id": 547,
+          "name": "冒泡排序",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 98,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "79.20"
+    },
+    {
+      "id": 41,
+      "name": "14天搞定Flask Web框架开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/41/Flaskweb_1544070689.8698378.jpeg",
+      "numbers": 103,
+      "learn_number": 1810,
+      "is_buy": false,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 3169,
+          "name": "内容概要",
+          "free_trail": true
+        },
+        {
+          "id": 3175,
+          "name": "Flask框架简介和快速使用",
+          "free_trail": false
+        },
+        {
+          "id": 3195,
+          "name": "Flask框架之before_reqeust和after_request（二）",
+          "free_trail": false
+        },
+        {
+          "id": 3198,
+          "name": "Flask框架之闪现",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 103,
+      "has_price": true,
+      "price": "79.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "79.00"
+    },
+    {
+      "id": 43,
+      "name": "千台服务器管理系统开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/43/服务器_1544072761.7344625.jpeg",
+      "numbers": 34,
+      "learn_number": 739,
+      "is_buy": false,
+      "teacher_description": "Alex 老男孩Python教学总监",
+      "free_sections": [
+        {
+          "id": 2976,
+          "name": "cmdb api安全认证",
+          "free_trail": true
+        },
+        {
+          "id": 2977,
+          "name": "restful api",
+          "free_trail": true
+        },
+        {
+          "id": 2979,
+          "name": "api设计2",
+          "free_trail": false
+        },
+        {
+          "id": 3119,
+          "name": "抓取原生ssh操作记录",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 34,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "69.00"
+    },
+    {
+      "id": 68,
+      "name": "IT大咖老男孩亲授职场高薪自我成长经验",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/68/思想_1544070384.6972747.jpeg",
+      "numbers": 11,
+      "learn_number": 4966,
+      "is_buy": false,
+      "teacher_description": "老男孩 北京老男孩IT教育创始人",
+      "free_sections": [
+        {
+          "id": 4461,
+          "name": "第一步，实现你的小成",
+          "free_trail": true
+        },
+        {
+          "id": 4460,
+          "name": "是时候改变普通人的思维了",
+          "free_trail": true
+        },
+        {
+          "id": 4462,
+          "name": "优秀的人和普通的人有哪些区别",
+          "free_trail": false
+        },
+        {
+          "id": 6800,
+          "name": "超过30岁如何给自己未来做正确职业规划",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 11,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "39.00"
+    },
+    {
+      "id": 45,
+      "name": "运维自动的基石项目－CMDB开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/45/CMDB_1544071233.4441462.jpeg",
+      "numbers": 28,
+      "learn_number": 1739,
+      "is_buy": false,
+      "teacher_description": "Alex 老男孩Python教学总监",
+      "free_sections": [
+        {
+          "id": 3009,
+          "name": "CMDB需求讨论",
+          "free_trail": true
+        },
+        {
+          "id": 3007,
+          "name": "ITIL介绍",
+          "free_trail": true
+        },
+        {
+          "id": 3008,
+          "name": "CMDB介绍",
+          "free_trail": true
+        },
+        {
+          "id": 3020,
+          "name": "数据正式存入待存区",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 28,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "99.00"
+    },
+    {
+      "id": 4,
+      "name": "Mysql数据库从入门至进阶",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/4/MySQl_1544071967.945016.jpeg",
+      "numbers": 49,
+      "learn_number": 1683,
+      "is_buy": false,
+      "teacher_description": "林海峰 上市公司前云计算技术负责人",
+      "free_sections": [
+        {
+          "id": 3330,
+          "name": "MySQL简单介绍",
+          "free_trail": true
+        },
+        {
+          "id": 3329,
+          "name": "MySQL-开篇",
+          "free_trail": true
+        },
+        {
+          "id": 3341,
+          "name": "日期类型",
+          "free_trail": false
+        },
+        {
+          "id": 3339,
+          "name": "表的增删改查",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 49,
+      "has_price": true,
+      "price": "79.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "79.00"
+    },
+    {
+      "id": 11,
+      "name": "网络编程入门&FTP服务开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/11/ftp_1544070135.9399443.jpeg",
+      "numbers": 36,
+      "learn_number": 1155,
+      "is_buy": false,
+      "teacher_description": "林海峰 上市公司前云计算技术负责人",
+      "free_sections": [
+        {
+          "id": 913,
+          "name": "计算机基础",
+          "free_trail": true
+        },
+        {
+          "id": 914,
+          "name": "什么是网络",
+          "free_trail": true
+        },
+        {
+          "id": 915,
+          "name": "五层协议详解",
+          "free_trail": false
+        },
+        {
+          "id": 931,
+          "name": "文件传输功能-面向对象版",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 36,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "99.00"
+    },
+    {
+      "id": 69,
+      "name": "Go编程33天从入门到放弃系列",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/69/go-pc列表_1544769100.1675076.jpeg",
+      "numbers": 200,
+      "learn_number": 4862,
+      "is_buy": false,
+      "teacher_description": "少林 前百度、小米架构师",
+      "free_sections": [
+        {
+          "id": 6013,
+          "name": "Go发展历史",
+          "free_trail": true
+        },
+        {
+          "id": 6012,
+          "name": "Golang课程介绍",
+          "free_trail": true
+        },
+        {
+          "id": 6157,
+          "name": "读写锁介绍以及性能对比",
+          "free_trail": false
+        },
+        {
+          "id": 6177,
+          "name": "sqlx库使用以及sql注入案例分析",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 168,
+      "has_price": true,
+      "price": "699.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "699.00"
+    },
+    {
+      "id": 23,
+      "name": "Python数据分析与机器学习实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/23/机器_1544010748.895914.jpeg",
+      "numbers": 180,
+      "learn_number": 3840,
+      "is_buy": false,
+      "teacher_description": "唐宇迪 深度学习领域一线实战专家",
+      "free_sections": [
+        {
+          "id": 423,
+          "name": "AI时代首选Python",
+          "free_trail": true
+        },
+        {
+          "id": 424,
+          "name": "Python我该怎么学",
+          "free_trail": true
+        },
+        {
+          "id": 425,
+          "name": "人工智能的核心-机器学习",
+          "free_trail": true
+        },
+        {
+          "id": 639,
+          "name": "过拟合解决方案",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 180,
+      "has_price": true,
+      "price": "499.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "499.00"
+    }
+  ]
+}

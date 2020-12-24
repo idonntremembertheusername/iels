@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+body,
+html {
+  font-family: PingFangSC-Light;
+  color: #333;
+  background-color: #F2F6FC;
+}
+
+.el-carousel__arrow--left {
+  left: 425px;
+}
+
+.el-carousel__arrow--right {
+  right: 600px;
+}
+.el-submenu__icon-arrow{
+  right: 5px;
+}
+.el-menu--collapse .el-menu .el-submenu, .el-menu--popup{
+  min-width: 100px;
+}
+.el-button--small{
+  font-size: 16px;
+}
+.el-table .cell.el-tooltip {
+  font-size: 16px;
+}
+.el-table th>.cell{
+  font-size: 16px;
+}
+.el-table thead{
+  background: #f7f7f7;
+  height: 60px;
+}
+.el-button.is-round {
+  margin-left: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
